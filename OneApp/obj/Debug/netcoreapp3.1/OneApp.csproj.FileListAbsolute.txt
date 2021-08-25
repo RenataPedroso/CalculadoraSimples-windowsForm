@@ -1,0 +1,17 @@
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.exe
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.deps.json
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.runtimeconfig.json
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.runtimeconfig.dev.json
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.dll
+C:\Users\renat\source\repos\OneApp\OneApp\bin\Debug\netcoreapp3.1\OneApp.pdb
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.Form1.resources
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.AssemblyInfo.cs
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.dll
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.pdb
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.genruntimeconfig.cache
+C:\Users\renat\source\repos\OneApp\OneApp\obj\Debug\netcoreapp3.1\OneApp.Properties.Resources.resources
